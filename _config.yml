@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Tony Zoght"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars2.githubusercontent.com/u/677271?v=3&s=460"
   bio              : "I write code :-)"
   location         : "Ottawa, Canada"
   email            : "tony@zoght.com"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/tzoght"
+  github           : "tzoght"
   google_plus      :
   keybase          :
   instagram        :
