@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: http://tzoght.github.io/about
+    url: /about
   - title: "Posts"
-    url: http://tzoght.github.io/posts
-  - title: "Architecture"
-    url: http://tzoght.github.io/architecture
+    url: / 
+  - title: "Projects"
+    url: /projects

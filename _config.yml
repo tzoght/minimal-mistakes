@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Random Thoughts"
+title                    : "Tony Zoght & Random Thoughts"
 title_separator          : "|"
 name                     : "Tony Zoght"
 description              : "Tony Zoght Scratchpad"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "https://disqus.com/admin/orgs/3831858/tzoghtgithubio/"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "tzoght"
 facebook:
   username               :
   app_id                 :
@@ -70,7 +70,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"
   google:
     tracking_id          :
 
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Tony Zoght"
   avatar           : "https://avatars2.githubusercontent.com/u/677271?v=3&s=460"
-  bio              : "I write code :-)"
-  location         : "Ottawa, Canada"
+  bio              : "Drawing the owl since the nineties ..."
+  location         : "Canada"
   email            : "tony@zoght.com"
   uri              :
   bitbucket        :
@@ -94,17 +94,17 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "tzoght/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "5390202/tony-zoght" 
   steam            :
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
