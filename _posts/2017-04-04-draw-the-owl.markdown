@@ -8,7 +8,7 @@ excerpt: Tobias Lutke & Doug Tetzner trying to find people who can draw f...ing 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dwSe2imUyvg?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-I first watched this <a class="page__taxonomy-item"  href="https://www.youtube.com/watch?v=dwSe2imUyvg">YouTube video</a>, four years ago. I occasionally mention it, in passing conversations, and I get two types of reactions:
+I first watched this [YouTube Add](https://www.youtube.com/watch?v=dwSe2imUyvg), four years ago. I occasionally mention it, in passing conversations, and I get two types of reactions:
 
 * Are you kidding me ? Not my cup of tea, I don't buy this
 * This is cool, I am in love with the idea ...
@@ -20,7 +20,7 @@ Well, here's what I believe:
 2. Above all, you have to make it clear that __you__ don't know all the answers __yet__, but you have the hunger and the resolve to get things done and master the required skills
 3. And, you expect them to do the same :-)
 
-If <a class="page__taxonomy-item"  href="https://www.shopify.com">Shopify</a> managed to build and maintain a vibrant community of designers who can draw the f***ing owl in this community, then the future is bright for this city and this country. 
+If [Shopify](https://www.shopify.com) managed to build and maintain a vibrant community of designers who can draw the f***ing owl in this community, then the future is bright for this city and this country. 
 
 
 __GO OTTAWA GO__
