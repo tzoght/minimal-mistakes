@@ -4,8 +4,9 @@ comments: true
 ---
 
 <p class="meta">{{ page.date | date: "%B %d, %Y" }} <a href="/"><i class="home fa fa-home"></i></a> </p>
-
+{% if page.share %}{% include social-share.html %}{% endif %}
 {{ content }}
+{% if page.share %}{% include social-share.html %}{% endif %}
 
 <div id="disqus_thread"></div>
 <script>
@@ -30,4 +31,3 @@ s.setAttribute('data-timestamp', +new Date());
 
 <script id="dsq-count-scr" src="//tzoght-github-io.disqus.com/count.js" async></script>
 
-{% if page.share %}{% include social-share.html %}{% endif %}
